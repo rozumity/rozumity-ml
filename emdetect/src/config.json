@@ -1,0 +1,32 @@
+[
+  {
+    "id": "anxiety_focus",
+    "threshold": 0.65,
+    "file_path": "data/markers/anxiety.txt"
+  },
+  {
+    "id": "burnout_focus",
+    "threshold": 0.75,
+    "file_path": "data/markers/burnout.txt"
+  },
+  {
+    "id": "depressive_mood",
+    "threshold": 0.8,
+    "file_path": "data/markers/depressive.txt"
+  },
+  {
+    "id": "aggression_irritation",
+    "threshold": 0.75,
+    "file_path": "data/markers/anger.txt"
+  },
+  {
+    "id": "somatic_distress",
+    "threshold": 0.55,
+    "file_path": "data/markers/somatic.txt"
+  },
+  {
+    "id": "low_self_esteem",
+    "threshold": 0.7,
+    "file_path": "data/markers/self_esteem.txt"
+  }
+]
